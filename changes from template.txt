@@ -1,0 +1,4 @@
+Changed navbar coloring from default black to white to better fit color scheme.
+
+Changed navbar to my own set up, deleting the sign-up and login prompts that were present
+before, and adding my own non-hamburger-style set-up, per Yu-Jen's recommended article.

@@ -1,0 +1,9 @@
+cc1 and cc2 were obtained from a google image search of "community college"
+graduation was obtained from a google image search of "graduation"
+
+cc1 - 1325x750, .jpg
+
+cc2 - 1880x800, .jpg
+
+graduation - 2000x1000, .jpg
+
