@@ -6,8 +6,13 @@ body {
 
 .jumbotron {
 	background-image: url("cc2.jpg");
+	background-repeat: no-repeat;
 }
 
-.nav-pills>li.active>a {
+
+
+
+
+/*.nav-pills>li.active>a {
 	background-color: #5DBEE5;
-}
+}*/
