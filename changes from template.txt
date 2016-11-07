@@ -1,4 +1,3 @@
-Changed navbar coloring from default black to white to better fit color scheme.
+Changed navbar and button coloring schemes to a better fit for my page.
 
-Changed navbar to my own set up, deleting the sign-up and login prompts that were present
-before, and adding my own non-hamburger-style set-up, per Yu-Jen's recommended article.
+Changed navbar to my own set up, deleting the sign-up and login prompts that were present before, and adding my own non-hamburger-style set-up, per Yu-Jen's recommended article.  In this way I both changed the template and avoided one of the most common yet problematic type of navigation features, the hamburger menu, out there on the internet.
